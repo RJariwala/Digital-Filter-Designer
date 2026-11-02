@@ -5,5 +5,4 @@ Interactive MATLAB App for evolutionary digital filter synthesis (FIR & IIR) usi
 ##  Download Standalone Executable
 You can download the ready-to-run Windows desktop app from the **Releases** section on the right.
 
-##  Demo Video
-[LINK](https://www.youtube.com/watch?v=xnl69TY6W2A&list=LL&index=3&t=2s)
+##  [Demo Video]((https://www.youtube.com/watch?v=xnl69TY6W2A&list=LL&index=3&t=2s)
